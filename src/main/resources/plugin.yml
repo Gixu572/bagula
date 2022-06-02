@@ -1,0 +1,5 @@
+name: Meow
+version: '${project.version}'
+main: me.gixu.meow.Meow
+api-version: 1.18
+load: STARTUP
